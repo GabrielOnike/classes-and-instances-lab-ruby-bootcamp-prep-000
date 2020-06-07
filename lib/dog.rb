@@ -7,5 +7,3 @@ class Dog
   lassie = dog.new 
 
 end
-
-
